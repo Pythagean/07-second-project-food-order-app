@@ -1,6 +1,6 @@
 import React from "react";
 import MealsSummary from "./MealsSummary";
-import AvailableMeals from "./AvailableMeals";
+// import AvailableMeals from "./AvailableMeals";
 import Mealheadings from "./MealHeadings";
 
 
